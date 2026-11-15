@@ -1,0 +1,10 @@
+.env
+.рус
+.DS_Store
+.vs_code
+.idea
+.vscode
+.history
+.env.local
+.venv
+/venv
